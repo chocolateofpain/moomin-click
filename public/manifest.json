@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Moomin Click",
   "version": "0.1.0",
-  "description": "My Chrome Extension",
+  "description": "Moomin stuff for happiness",
   "icons": {
     "16": "icons/moomin.png",
     "32": "icons/moomin.png",
